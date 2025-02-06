@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'establishRetrosansOTF';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2112@1.0/establishRetrosansOTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#title_text {
+    font-family: 'establishRetrosansOTF';
+    font-size: 100px;
+    text-decoration-line: none;
+    color: burlywood;
+}
+
+.title {
+    text-align: center;
+}
